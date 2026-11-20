@@ -1,0 +1,6 @@
+[package]
+name = "caps_language_switch"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
